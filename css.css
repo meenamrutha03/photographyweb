@@ -1,0 +1,138 @@
+.nav
+{
+    display: flex;
+    height:100%;
+    width: 100%;
+    top:5;
+     justify-content: flex-end;
+     height: 190px;
+     margin-top: 0px;
+    
+     padding-top: 70px;
+     padding-bottom: 20px;
+     
+}
+a
+{
+    margin-right : 50px;
+    color:beige;
+    text-decoration: none;
+    
+   
+}
+.intro
+{
+   text-align: center;
+   margin-top: 140px; 
+   font-size: 50px;
+   font-weight: lighter;
+   font-family: 'Courier New', Courier, monospace;
+   height: 200px;
+   padding-top: 20vh;
+   background-color: #CAD2C5;
+   backdrop-filter: blur(8px);
+   width: 80%;
+   margin-left: auto;
+   margin-right: auto;
+   border: 1px solid rgba(255, 255, 255, 0.2);
+   color: #ffffff;
+   text-shadow: o 2px 4px rgba(0,0,0,0,3);
+   
+  
+}
+
+body
+{
+    background-image: url('../../../../Downloads/photography-website.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    min-height: 200vh;
+    margin: 0;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+.nature img
+{
+    height: 300px;
+    width: 300px;
+    padding-top: 10%;
+    justify-content: center;
+    
+    align-items: center;
+
+}
+.nature
+{
+    padding-left: 23%;
+    padding-right: 0%;
+    display: flex;
+    gap: 50px;
+}
+
+.button
+{
+    height: 340px;
+    width: 75%;
+    background-color: #84A98C;
+    margin: -50px auto 0;
+    position: relative;
+    z-index: 10;
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+    backdrop-filter: blur(5px);
+    
+}
+
+
+.image
+{
+    background-image: url(../../../../Downloads/IMG_20251225_074253.jpg);
+    height:800px;
+    width:100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 0;
+}
+
+
+.end
+{
+    background-color: rgb(147, 117, 80);
+    height:50vh;
+    width:100vw;
+    background-size: cover;
+    background-position: center;
+    padding-top: 30px;
+
+}
+
+#foo
+{
+    background-color: rgb(65, 63, 63);
+    height: 120px;
+    width: 100vw;
+    color: beige;
+    text-align: center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 0;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
